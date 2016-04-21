@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="Win-Pycharm-Frictionless" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="control J" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="control Q" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift control E" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="control OPEN_BRACKET" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift control BACK_SLASH" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
+  </action>
+  <action id="Console.History.BrowseTW" />
+  <action id="Console.TableResult.AddRow">
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift control J" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift control alt J" />
+  </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift meta V" />
+  </action>
+  <action id="DatabaseView.AddAction">
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="control J" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="control Q" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="control E" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="END" />
+    <keyboard-shortcut first-keystroke="control RIGHT" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift control alt K" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="control alt Y" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="UP" />
+  </action>
+  <action id="Exit" />
+  <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="control U" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="control alt U" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="control I" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift control I" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="control CLOSE_BRACKET" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="control P" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift control P" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="GotoRelated" />
+  <action id="GotoSuperMethod" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="control alt N" />
+    <keyboard-shortcut first-keystroke="control alt P" />
+  </action>
+  <action id="HtmlTableCellNavigateLeft" />
+  <action id="HtmlTableCellNavigateRight" />
+  <action id="Inline" />
+  <action id="InsertLiveTemplate" />
+  <action id="IntroduceParameter" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="control meta alt RIGHT" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="control meta DOWN" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="control meta UP" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="control meta alt DOWN" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="control meta alt UP" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt TAB" />
+    <keyboard-shortcut first-keystroke="shift control alt RIGHT" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift control K" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt TAB" />
+    <keyboard-shortcut first-keystroke="shift control alt LEFT" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="RecentChangedFiles" />
+  <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="control T" second-keystroke="control U" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift F6" />
+    <keyboard-shortcut first-keystroke="control alt B" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift control U" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift control alt U" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta V" />
+  </action>
+  <action id="ShowUmlDiagram" />
+  <action id="ShowUmlDiagramPopup" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="control alt 2" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="control alt 1" />
+  </action>
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta M" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
+
